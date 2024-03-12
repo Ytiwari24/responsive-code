@@ -39,6 +39,7 @@ dependencies:
   get: ^4.6.5
   flame: ^1.9.1
   provider: ^6.1.2
+  flutter_bloc: ^8.1.4
 
 dev_dependencies:
   flutter_test:
