@@ -63,7 +63,8 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
     return BlocProvider(
       create: (_) => ThemeCubit(),
-      child: const AppView(),
+      child: 
+      const AppView(),
     );
   }
 }
